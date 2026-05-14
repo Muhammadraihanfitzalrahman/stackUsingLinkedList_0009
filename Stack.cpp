@@ -14,6 +14,8 @@ public:
     }
 };
 
-// Stack class 
+// Stack class
 class stack
-
+{
+private:
+    Node *top;
